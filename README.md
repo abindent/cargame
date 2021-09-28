@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" src="https://wallpaperaccess.com/full/955487.jpg" />
+  <img width="39%" src="https://wallpaperaccess.com/full/955487.jpg" />
 </p>
 
 
