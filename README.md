@@ -23,3 +23,7 @@ Javascript, HTML, CSS, Python...
                     &#8593; for moving the car in up direction<br><br>
                     &#8595; for moving the car in down direction<br><br>
 </p>
+
+# How to access
+
+<p> Please visit our <a href=""https://osourcegames.firebaseapp.com/Games.html>website</a> and <a href="https://www.patreon.com/join/OpenSourceGames">patreona</a> for more.
