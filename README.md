@@ -26,4 +26,4 @@ Javascript, HTML, CSS, Python...
 
 # How to access
 
-<p> Please visit our <a href=""https://osourcegames.firebaseapp.com/Games.html>website</a> and <a href="https://www.patreon.com/join/OpenSourceGames">patreon</a> for more.
+<p> Please visit our <a href="https://osourcegames.firebaseapp.com/Games.html">website</a> and <a href="https://www.patreon.com/join/OpenSourceGames">patreon</a> for more.
