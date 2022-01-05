@@ -14,7 +14,7 @@ Javascript, HTML, CSS, Python...
 # 🚗 CarGame
 
 <p align="center">
-                    Car Run is a game which is made with only HTML,CSS,JAVA script.
+                    Car Run is a game which is made with only HTML,CSS,JavaScript.
                     In this game the player has to move the car with &#8592; &#8593; &#8595; &#8594;.
                     Also you have to notice that your car doesn't collide with other cars else the game will end.
                    <br><br><strong>Controls:</strong><br><br>
